@@ -1,4 +1,4 @@
-# Pstack
+# Translator
 Translator jest implementacją translatora gaderypoluki oraz szyfru Cezara w Pythonie. Zawiera logikę biznesową w formie klasy.
 ## Technologie
 * Python 3.7 i wyżej
